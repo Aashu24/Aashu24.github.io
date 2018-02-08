@@ -1,0 +1,99 @@
+
+body{
+	margin: 0%;
+	padding: 0%;
+	height: 100vh;
+	font-family: 'Trebuchet MS';
+}
+
+.absolute-position{
+	position: absolute;
+}
+
+#particles-js{
+	width: 100%;
+	height: 600px;
+	background: linear-gradient(#fd2a58da,rgba(172, 255, 47, 0.884));
+}
+
+#name{
+	color: aliceblue;
+	font-size: 70px;
+	position: absolute;
+	left: 70px;
+	white-space: nowrap;
+}
+
+#fb{
+	position: absolute;
+	left: 280px;
+	top: 300px;
+}
+
+#mail{
+	position: absolute;
+	left: 450px;
+	top: 300px;
+}
+
+#git{
+	position: absolute;
+	left: 620px;
+	top: 300px;
+}
+
+#in{
+	position: absolute;
+	left: 800px;
+	top: 300px;
+}
+
+#me{
+	margin-right: 50px;
+	float: right;
+}
+
+.one{
+	margin-left: 150px;
+}
+
+.two{
+	margin-left: 300px;
+}
+
+#pink-label{
+
+	width: 100%;
+	height: 400px;
+	background-color: #fd2a58da;
+	font-size: 20px;
+	color: aliceblue;
+	padding-top: 15px;
+	padding-left: 50px;
+	
+}
+
+#green-label{
+
+	width: 100%;
+	height: 420px;
+	background-color: rgba(172, 255, 47, 0.884);
+	padding-top: 15px;
+	color: aliceblue;
+	font-size: 20px;
+	text-align: center;
+	word-wrap: break-word;
+
+}
+
+.hobbies{
+	font-size: 20px;
+	padding-top: 15px;
+	padding-left: 50px;
+	text-align: center;
+	height: 100px;;
+}
+
+.icons:hover{
+	transform: translateY(-40px);
+}
