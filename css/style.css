@@ -85,14 +85,6 @@ body{
 
 }
 
-.hobbies{
-	font-size: 20px;
-	padding-top: 15px;
-	padding-left: 50px;
-	text-align: center;
-	height: 100px;;
-}
-
 .icons:hover{
 	transform: translateY(-40px);
 }
